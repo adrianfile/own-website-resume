@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    
+    background-color:black;
+    
+}
+
+.zilla {
+    font-family: 'Zilla Slab Highlight', cursive;
+}
