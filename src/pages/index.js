@@ -6,16 +6,16 @@ import {StaticImage} from "gatsby-plugin-image"
 
 const IndexPage = () => (
   
-  <section className="text-white ">
+  <section className="text-white">
     <div className="my-80 pb-64">
       <div className="h-32 w-64 md:w-96 mx-auto text-white">
         <p className="text-3xl md:text-5xl md:text-center zilla">Adrian Hartanto</p>
         <br></br>
         <p className="text-xl md:text-2xl md:text-center">I'm a developer, i'm a planner, and i'm in learning to be going Master JavaScript.</p>
         <br></br>
-        <button className="ml-40 md:mx-auto font-bold flex text-center px-2 bg-white text-black rounded-full hover:bg-indigo-600 hover:text-white transition delay-300 "
+        <button className="ml-20 md:mx-auto font-bold flex text-center px-2 bg-white text-black rounded-full hover:bg-indigo-600 hover:text-white transition delay-300 "
           onClick={()=> scrollTo('#about')}>
-          HIRE ME
+          LET'S GO DOWN
         </button>
       </div>
     </div>
@@ -74,9 +74,35 @@ const IndexPage = () => (
       </div>
     </div>
     <div>
-      <p className="md:text-xl font-bold">
+      <p className="md:text-xl font-bold text-center pb-10 pt-20">
         I use JavaScript to build the following applications:
       </p>
+      <div className="space-y-10 md:space-y-0 md:flex">
+        <div className="relative w-3/4 md:w-1/4 mx-auto">
+            <StaticImage 
+              src="../images/Gacha.png"
+              width={400}
+              placeholder='A'
+              className="block w-full mx-auto"
+            />
+            <a  href="https://kang-gacha-adrianfile.vercel.app"
+                className="absolute transition inset-0 text-black hover:text-white text-center bg-blue-50 bg-opacity-50 hover:bg-blue-500 hover:bg-opacity-75 ease-in-out">
+              <p className="mt-20 text-xl">Gacha Percents</p>
+            </a>
+        </div>
+        <div className="relative w-3/4 md:w-1/4 mx-auto">
+            <StaticImage 
+              src="../images/Bot.png"
+              width={400}
+              placeholder='A'
+              className="block w-full mx-auto"
+            />
+            <a  href="https://github.com/adrianfile/scratch-idea-bot"
+                className="absolute transition inset-0 text-black hover:text-white text-center bg-blue-50 bg-opacity-50 hover:bg-blue-500 hover:bg-opacity-75 ease-in-out">
+              <p className="mt-20 text-xl">Discord Bot</p>
+            </a>
+        </div>
+      </div>
     </div>
   </section>
 )
