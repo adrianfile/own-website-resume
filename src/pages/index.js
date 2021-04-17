@@ -8,10 +8,7 @@ import {Helmet} from "react-helmet"
 const IndexPage = () => (
   
   <section className="text-white">
-    <Helmet>
-      <title>Adrian Hartanto</title>
-      <link rel="icon" type="image/png" />
-    </Helmet>
+    
     <div className="my-80 pb-64">
       <div className="h-32 w-64 md:w-96 mx-auto text-white">
         <p className="text-3xl md:text-5xl md:text-center zilla">Adrian Hartanto</p>
