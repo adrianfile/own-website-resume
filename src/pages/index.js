@@ -24,7 +24,7 @@ const IndexPage = () => (
         </button>
       </div>
     </div>
-    <div id="about" className="pb-96">
+    <div id="about" className="pb-72">
       <div className="md:flex">
         <div className="xl:ml-44 hidden xl:block overflow-hidden rounded-full">
           <StaticImage 
@@ -49,7 +49,7 @@ const IndexPage = () => (
           </p>
           <br></br>
           <p className="text-justify px-5 md:px-10 2xl:px-64">
-              Freedom of Education, Bootcamp, and Educate People become a <i>SMARTGUY</i>
+              Freedom of Education, Idea Creation for Everyone, and Educate People become a <i>SMARTGUY</i>
           </p>
         </div>
         <div className="xl:items-center xl:mt-28 pt-10 block">
@@ -57,15 +57,21 @@ const IndexPage = () => (
             LAST WORK (WORK EXPERIENCE BEFORE RESIGN)
           </p>
           <br></br>
-          <p className="text-justify px-5 md:px-10 2xl:px-64">
-              Freelancer Wordpress Admin, Trial Account Creator, and Leader of Scratch Idea.
-          </p>
+          <div className="text-justify  px-5 md:px-10 2xl:px-64">
+            <p className="text-xl text-center md:text-left ">
+                910Shoes
+            </p>
+            <br></br>
+            <p>As Freelance Website Admin <br></br>( March 2020 - September 2020)</p>
+
+          </div>
+          
         </div>
       </div>
     </div>
     <div>
       <div className="text-center font-bold">
-        <p className="pb-10 md:text-xl">I've been learn this :</p>
+        <p className="pb-20 md:text-xl">I've been learn this :</p>
         <div className=" md:justify-content-center md:items-center md:space-x-20 md:inline-block space-y-6 md:space-y-0">
           <div className="md:inline-block">
             <p>JavaScript</p>
@@ -99,10 +105,10 @@ const IndexPage = () => (
       </div>
     </div>
     <div>
-      <p className="md:text-xl font-bold text-center pb-10 pt-20">
+      <p className="md:text-xl font-bold text-center pb-10 pt-72">
         I use JavaScript to build the following applications:
       </p>
-      <div className="space-y-10 md:space-y-0 md:flex">
+      <div className="space-y-10 md:space-y-0 md:flex pt-10">
         <div className="relative w-3/4 md:w-1/4 mx-auto">
             <StaticImage 
               src="../images/Gacha.png"
@@ -128,6 +134,22 @@ const IndexPage = () => (
             </a>
         </div>
       </div>
+    </div>
+    <div className="pt-40">
+      <p className="text-center text-xl font-bold pb-5">WE CAN COLLABORATE OR HIRE ME VIA</p>
+      <div className="relative border-b-2 w-4/4 md:w-1/4 h-28 mx-auto">
+        <a href="mailto:adrianfile1@gmail.com" 
+           className="absolute hover:bg-blue-200 hover:text-black transition duration-700 ease-in-out inset-0">
+             <p className="text-center mt-10 text-xl font-bold">Via E-Mail</p>
+        </a>
+      </div>
+      <div className="relative w-4/4 md:w-1/4 h-28 mx-auto">
+        <a href="https://wa.me/6281292767383" 
+           className="absolute hover:bg-blue-200 hover:text-black transition duration-700 ease-in-out inset-0">
+             <p className="text-center mt-10 text-xl font-bold">Via WhatsApp</p>
+        </a>
+      </div>
+        
     </div>
     <div id="footer" className="pt-10 text-center">
       <p>2021. Created by <a className="text-purple-300" href="https://www.facebook.com/mhankskuy">Adrian Hartanto</a> using <a className="text-purple-300" href="https://www.gatsbyjs.com/">GatsbyJS</a></p>
