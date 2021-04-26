@@ -2,12 +2,14 @@ import * as React from "react"
 import scrollTo from 'gatsby-plugin-smoothscroll'
 import {StaticImage} from "gatsby-plugin-image"
 import {Helmet} from "react-helmet"
+import ScrollTop from "../components/scrollTop"
 
 
 
 const IndexPage = () => (
   
   <section className="text-white">
+    <ScrollTop />
     <Helmet>
       <title>Adrian Hartanto</title>
       <link rel="icon" type="image/png" />
