@@ -18,7 +18,7 @@ const IndexPage = () => (
       <div className="h-32 w-64 md:w-96 mx-auto text-white">
         <p className="text-3xl md:text-5xl md:text-center zilla">Adrian Hartanto</p>
         <br></br>
-        <p className="text-xl md:text-2xl md:text-center">I'm a developer, i'm a planner, and i'm in learning to be going JavaScript Master.</p>
+        <p className="text-xl md:text-2xl md:text-center">Zoo-master</p>
         <br></br>
         <button className="ml-20 md:mx-auto font-bold flex text-center px-2 bg-white text-black rounded-full hover:bg-indigo-600 hover:text-white transition delay-300 "
           onClick={()=> scrollTo('#about')}>
