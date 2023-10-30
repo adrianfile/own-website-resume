@@ -30,7 +30,7 @@ const IndexPage = () => (
       <div className="md:flex">
         <div className="xl:ml-44 hidden xl:block overflow-hidden rounded-full">
           <StaticImage 
-            src="../images/myphoto.png"
+            src="../images/DSC09768.jpg"
             width={2000}
           />
         </div>
