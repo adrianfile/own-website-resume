@@ -49,6 +49,7 @@ const IndexPage = () => (
           <p className=" font-bold text-center md:mx-10 2xl:mx-64 md:text-xl">
             PENGALAMAN
           </p>
+        <div className="text-justify  px-5 md:px-10 2xl:px-64">
           <br></br>
             <p className="text-xl text-center md:text-left ">
                 NetEase
@@ -56,8 +57,7 @@ const IndexPage = () => (
             <br></br>
             <p>Freelance Quality Assurance<br></br>( Agustus 2023 - Oktober 2023)</p>
             <p><a href="https://play.google.com/store/apps/details?id=com.netease.newspike"> Tekan disini untuk lihat Produk</a></p>
-          <br></br>
-          <div className="text-justify  px-5 md:px-10 2xl:px-64">
+            <br></br>
             <p className="text-xl text-center md:text-left ">
                 910Shoes
             </p>
