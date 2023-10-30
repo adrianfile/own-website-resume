@@ -28,7 +28,7 @@ const IndexPage = () => (
     </div>
     <div id="about" className="pb-72">
       <div className="md:flex">
-        <div className="xl:ml-44 hidden xl:block overflow-hidden rounded-full">
+        <div className="xl:ml-44 hidden xl:block overflow-hidden">
           <StaticImage 
             src="../images/DSC09768.jpg"
             width={2000}
