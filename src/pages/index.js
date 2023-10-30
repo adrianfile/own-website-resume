@@ -55,8 +55,8 @@ const IndexPage = () => (
                 910Shoes
             </p>
             <br></br>
-            <p>As Freelance Website Admin <br></br>( March 2020 - September 2020)</p>
-            <p><a href="https://910.id"> Portofolio </a></p>
+            <p>FullStack Web Developer<br></br>( March 2020 - September 2020)</p>
+            <p className="text-grey-200"><a href="https://910.id"> Portofolio </a></p>
 
           </div>
         </div>
@@ -70,7 +70,7 @@ const IndexPage = () => (
                 Anantarupa Studios
             </p>
             <br></br>
-            <p>As Freelance Website Admin <br></br>( March 2020 - September 2020)</p>
+            <p>QA Helper<br></br>( March 2020 - September 2020)</p>
 
           </div>
           
