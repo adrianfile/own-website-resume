@@ -31,7 +31,7 @@ const IndexPage = () => (
         <div className="xl:ml-44 hidden xl:block overflow-hidden">
           <StaticImage 
             src="../images/DSC09768.jpg"
-            width={2000}
+            width={1900}
           />
         </div>
         <div className="xl:items-center xl:mt-28">
