@@ -18,11 +18,11 @@ const IndexPage = () => (
       <div className="h-32 w-64 md:w-96 mx-auto text-white">
         <p className="text-3xl md:text-5xl md:text-center zilla">Adrian Hartanto</p>
         <br></br>
-        <p className="text-xl md:text-2xl md:text-center">Zoo-master</p>
+        <p className="text-xl md:text-2xl md:text-center">Suka minum susu</p>
         <br></br>
         <button className="ml-20 md:mx-auto font-bold flex text-center px-2 bg-white text-black rounded-full hover:bg-indigo-600 hover:text-white transition delay-300 "
           onClick={()=> scrollTo('#about')}>
-          LET'S GO DOWN
+          MARI KEBAWAH
         </button>
       </div>
     </div>
@@ -36,18 +36,18 @@ const IndexPage = () => (
         </div>
         <div className="xl:items-center xl:mt-28">
           <p className=" font-bold text-center md:text-left md:mx-10 2xl:mx-64 md:text-xl">
-            LET ME INTRODUCE MY SELF!
+            BIARKAN AKU MEMPERKENALKAN DIRI
           </p>
           <br></br>
           <p className="text-justify px-5 md:px-10 2xl:px-64">
-              Hi World, my full name is Adrian Hartanto. You can call me Adri, Ian, Anto ,and Dre. i've learn Web Development almost 2 years and 1 year for Software Development. I don't have any work experience on this skill on every company surely will be the new chick. I'm exciting to spend all my time to dreaming and make real a new world changer. 
+               Hai, namaku Adrian. Aku dulunya seorang Web Developer dengan menggunakan JAMStack dan juga LAMPStack ya agak lupa sih sekarang heheh. Tetapi disamping itu, aku mempunyai pengalaman sebagai yang katanya cuma ngetest gim aja, yap QA gim. Ya walaupun hanya sedikit pengalamanku setidaknya clientku sih puas. Skill yang aku kuasai pertama pastinya skill-skill utilitas seperti XMind, Ms.Office, dan Figma, oh iya kadang VSCode. Untuk skill yang menjerumus suatu bidang yang aku yakini sekarang itu QA dimana kalau Web Developer harus mengulangi materi kembali.
           </p>
         </div>
       </div>
       <div className="md:flex">
         <div className="xl:items-center xl:mt-28 pt-10 block">
           <p className=" font-bold text-center md:mx-10 2xl:mx-64 md:text-xl">
-            MY MISSION
+            MISIKU
           </p>
           <br></br>
           <p className="text-justify px-5 md:px-10 2xl:px-64">
@@ -56,7 +56,7 @@ const IndexPage = () => (
         </div>
         <div className="xl:items-center xl:mt-28 pt-10 block">
           <p className=" font-bold text-center md:mx-10 2xl:mx-64 md:text-xl">
-            LAST WORK (WORK EXPERIENCE BEFORE RESIGN)
+            PENGALAMAN
           </p>
           <br></br>
           <div className="text-justify  px-5 md:px-10 2xl:px-64">
