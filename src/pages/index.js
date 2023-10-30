@@ -56,7 +56,17 @@ const IndexPage = () => (
             </p>
             <br></br>
             <p>FullStack Web Developer<br></br>( March 2020 - September 2020)</p>
-            <p className="text-gray"><a href="https://910.id"> Portofolio </a></p>
+            <p><a href="https://910.id"> Tekan disini untuk lihat Portofolio </a></p>
+            <br></br>
+            <div className="text-justify  px-5 md:px-10 2xl:px-64">
+            <p className="text-xl text-center md:text-left ">
+                WipleGames
+            </p>
+            <br></br>
+            <p>FullStack Web Developer<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019)</p>
+            <p><a href="http://ironsight.pmang.com"> Tekan disini ( KR Version )</a></p>
+            <p><a href="https://store.steampowered.com/app/783770/Ironsight/"> Tekan disini ( Asian Version )</a></p>
+
 
           </div>
         </div>
@@ -70,7 +80,7 @@ const IndexPage = () => (
                 Anantarupa Studios
             </p>
             <br></br>
-            <p>QA Helper<br></br>( March 2020 - September 2020)</p>
+            <p>QA Helper untuk Lokapala<br></br>( Februari 2022 - Oktober 2022)</p>
 
           </div>
           
