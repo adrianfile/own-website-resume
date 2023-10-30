@@ -55,21 +55,21 @@ const IndexPage = () => (
                 NetEase
             </p>
             <br></br>
-            <p>Freelance Quality Assurance<br></br>( Agustus 2023 - Oktober 2023)</p>
+            <p>Freelance Quality Assurance<br></br>( Agustus 2023 - Oktober 2023 )</p>
             <p><a href="https://play.google.com/store/apps/details?id=com.netease.newspike"> Tekan disini untuk lihat Produk</a></p>
             <br></br>
             <p className="text-xl text-center md:text-left ">
                 910Shoes
             </p>
             <br></br>
-            <p>FullStack Web Developer<br></br>( March 2020 - September 2020)</p>
+            <p>FullStack Web Developer<br></br>( March 2020 - September 2020 )</p>
             <p><a href="https://910.id"> Tekan disini untuk lihat Portofolio </a></p>
             <br></br>
             <p className="text-xl text-center md:text-left ">
                 WipleGames
             </p>
             <br></br>
-            <p>Junior Quality Assurance<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019)</p>
+            <p>Junior Quality Assurance<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019 )</p>
             <p><a href="http://ironsight.pmang.com"> Tekan disini ( KR Version )</a></p>
             <p><a href="https://store.steampowered.com/app/783770/Ironsight/"> Tekan disini ( Asian Version )</a></p>
             <br></br>
@@ -77,7 +77,7 @@ const IndexPage = () => (
                 Zepetto Co.
             </p>
             <br></br>
-            <p>User Acceptance Tester ( Under QA Division )<br></br>( April 2019 - Mei 2019)</p>
+            <p>User Acceptance Tester ( Under QA Division )<br></br>( April 2019 - Mei 2019 )</p>
             <p><a href="https://store.steampowered.com/app/1039870/Survival_Frenzy/"> Tekan disini untuk lihat Produk</a></p>
 
 
@@ -93,16 +93,23 @@ const IndexPage = () => (
                 Anantarupa Studios
             </p>
             <br></br>
-            <p>QA Helper untuk Lokapala<br></br>( Februari 2022 - Oktober 2022)</p>
+            <p>QA Helper untuk Lokapala<br></br>( Februari 2022 - Oktober 2022 )</p>
             <p><a href="https://play.google.com/store/apps/details?id=com.AnantarupaStudios.Lokapala"> Tekan disini untuk lihat Produk</a></p>
             <br></br>
             <p className="text-xl text-center md:text-left ">
                 5minlab
             </p>
             <br></br>
-            <p>User Acceptance Tester untuk Smash Legends<br></br>( Februari 2022 - Oktober 2022)</p>
+            <p>User Acceptance Tester untuk Smash Legends<br></br>( Februari 2022 - Oktober 2022 )</p>
             <p><a href="https://play.google.com/store/apps/details?id=com.linegames.sl"> Tekan disini untuk lihat Produk ( Mobile Version )</a></p>
             <p><a href="https://store.steampowered.com/app/1352080/SMASH_LEGENDS/"> Tekan disini untuk lihat Produk ( PC Version )</a></p>
+            <br></br>
+            <p className="text-xl text-center md:text-left ">
+                305 Gaming
+            </p>
+            <br></br>
+            <p>Data Analyst / Coach Advisor<br></br>( Desember 2021 - Januari 2022 )</p>
+            <p><a href="https://liquipedia.net/wildrift/WRL/2022/National_Qualifier"> Tekan disini untuk lihat Tournament</a></p>
 
           </div>
           
