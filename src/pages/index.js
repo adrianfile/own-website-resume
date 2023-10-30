@@ -56,7 +56,7 @@ const IndexPage = () => (
             </p>
             <br></br>
             <p>FullStack Web Developer<br></br>( March 2020 - September 2020)</p>
-            <p className="text-grey-200"><a href="https://910.id"> Portofolio </a></p>
+            <p className="text-gray"><a href="https://910.id"> Portofolio </a></p>
 
           </div>
         </div>
