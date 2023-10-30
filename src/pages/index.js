@@ -50,6 +50,13 @@ const IndexPage = () => (
             PENGALAMAN
           </p>
           <br></br>
+            <p className="text-xl text-center md:text-left ">
+                NetEase
+            </p>
+            <br></br>
+            <p>Freelance Quality Assurance<br></br>( Agustus 2023 - Oktober 2023)</p>
+            <p><a href="https://play.google.com/store/apps/details?id=com.netease.newspike"> Tekan disini untuk lihat Produk</a></p>
+          <br></br>
           <div className="text-justify  px-5 md:px-10 2xl:px-64">
             <p className="text-xl text-center md:text-left ">
                 910Shoes
@@ -70,7 +77,7 @@ const IndexPage = () => (
                 Zepetto Co.
             </p>
             <br></br>
-            <p>Junior Quality Assurance<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019)</p>
+            <p>User Acceptance Tester ( Under QA Division )<br></br>( April 2019 - Mei 2019)</p>
             <p><a href="https://store.steampowered.com/app/1039870/Survival_Frenzy/"> Tekan disini untuk lihat Produk</a></p>
 
 
