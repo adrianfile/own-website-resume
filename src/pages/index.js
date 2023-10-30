@@ -94,6 +94,15 @@ const IndexPage = () => (
             </p>
             <br></br>
             <p>QA Helper untuk Lokapala<br></br>( Februari 2022 - Oktober 2022)</p>
+            <p><a href="https://play.google.com/store/apps/details?id=com.AnantarupaStudios.Lokapala"> Tekan disini untuk lihat Produk</a></p>
+            <br></br>
+            <p className="text-xl text-center md:text-left ">
+                5minlab
+            </p>
+            <br></br>
+            <p>User Acceptance Tester untuk Smash Legends<br></br>( Februari 2022 - Oktober 2022)</p>
+            <p><a href="https://play.google.com/store/apps/details?id=com.linegames.sl"> Tekan disini untuk lihat Produk ( Mobile Version )</a></p>
+            <p><a href="https://store.steampowered.com/app/1352080/SMASH_LEGENDS/"> Tekan disini untuk lihat Produk ( PC Version )</a></p>
 
           </div>
           
@@ -102,7 +111,7 @@ const IndexPage = () => (
     </div>
     <div>
       <div className="text-center font-bold">
-        <p className="pb-20 md:text-xl">I've been learn this :</p>
+        <p className="pb-20 md:text-xl">Dalam Web Developer aku telah mempelajari :</p>
         <div className=" md:justify-content-center md:items-center md:space-x-20 md:inline-block space-y-6 md:space-y-0">
           <div className="md:inline-block">
             <p>JavaScript</p>
@@ -167,7 +176,7 @@ const IndexPage = () => (
       </div>
     </div>
     <div className="pt-40">
-      <p className="text-center text-xl font-bold pb-5">WE CAN COLLABORATE OR HIRE ME VIA</p>
+      <p className="text-center text-xl font-bold pb-5">Untuk melakukan kolaborasi bisa melalui</p>
       <div className="relative border-b-2 w-4/4 md:w-1/4 h-28 mx-auto">
         <a href="mailto:adrianfile1@gmail.com" 
            className="absolute hover:bg-blue-200 hover:text-black transition duration-700 ease-in-out inset-0">
@@ -183,7 +192,7 @@ const IndexPage = () => (
         
     </div>
     <div id="footer" className="pt-10 text-center">
-      <p>2021. Created by <a className="text-purple-300" href="https://www.facebook.com/mhankskuy">Adrian Hartanto</a> using <a className="text-purple-300" href="https://www.gatsbyjs.com/">GatsbyJS</a></p>
+      <p>2023. Created by <a className="text-purple-300" href="https://www.facebook.com/mhankskuy">Adrian Hartanto</a> using <a className="text-purple-300" href="https://www.gatsbyjs.com/">GatsbyJS</a></p>
     </div>
   </section>
 )
