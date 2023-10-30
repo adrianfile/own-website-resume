@@ -58,14 +58,20 @@ const IndexPage = () => (
             <p>FullStack Web Developer<br></br>( March 2020 - September 2020)</p>
             <p><a href="https://910.id"> Tekan disini untuk lihat Portofolio </a></p>
             <br></br>
-            <div className="text-justify  px-5 md:px-10 2xl:px-64">
             <p className="text-xl text-center md:text-left ">
                 WipleGames
             </p>
             <br></br>
-            <p>FullStack Web Developer<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019)</p>
+            <p>Junior Quality Assurance<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019)</p>
             <p><a href="http://ironsight.pmang.com"> Tekan disini ( KR Version )</a></p>
             <p><a href="https://store.steampowered.com/app/783770/Ironsight/"> Tekan disini ( Asian Version )</a></p>
+            <br></br>
+            <p className="text-xl text-center md:text-left ">
+                Zepetto Co.
+            </p>
+            <br></br>
+            <p>Junior Quality Assurance<br></br>( April 2015 - Mei 2015, Juli 2019 - Oktober 2019)</p>
+            <p><a href="https://store.steampowered.com/app/1039870/Survival_Frenzy/"> Tekan disini untuk lihat Produk</a></p>
 
 
           </div>
@@ -124,7 +130,7 @@ const IndexPage = () => (
     </div>
     <div>
       <p className="md:text-xl font-bold text-center pb-10 pt-72">
-        I use JavaScript to build the following applications:
+        Keisenganku dalam memakai JavaScript dulu:
       </p>
       <div className="space-y-10 md:space-y-0 md:flex pt-10">
         <div className="relative w-3/4 md:w-1/4 mx-auto">
