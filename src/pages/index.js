@@ -55,7 +55,7 @@ const IndexPage = () => (
                 NetEase
             </p>
             <br></br>
-            <p>Freelance Quality Assurance<br></br>( Agustus 2023 - Oktober 2023 )</p>
+            <p>User Acceptance Tester / QA Helper<br></br>( Agustus 2023 - Oktober 2023 )</p>
             <p><a href="https://play.google.com/store/apps/details?id=com.netease.newspike"> Tekan disini untuk lihat Produk</a></p>
             <br></br>
             <p className="text-xl text-center md:text-left ">
