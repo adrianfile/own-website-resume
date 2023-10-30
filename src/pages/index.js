@@ -47,21 +47,27 @@ const IndexPage = () => (
       <div className="md:flex">
         <div className="xl:items-center xl:mt-28 pt-10 block">
           <p className=" font-bold text-center md:mx-10 2xl:mx-64 md:text-xl">
-            MISIKU
-          </p>
-          <br></br>
-          <p className="text-justify px-5 md:px-10 2xl:px-64">
-              Freedom of Education, Idea Creation for Everyone, and Educate People become a <i>SMARTGUY</i>
-          </p>
-        </div>
-        <div className="xl:items-center xl:mt-28 pt-10 block">
-          <p className=" font-bold text-center md:mx-10 2xl:mx-64 md:text-xl">
             PENGALAMAN
           </p>
           <br></br>
           <div className="text-justify  px-5 md:px-10 2xl:px-64">
             <p className="text-xl text-center md:text-left ">
                 910Shoes
+            </p>
+            <br></br>
+            <p>As Freelance Website Admin <br></br>( March 2020 - September 2020)</p>
+            <p><a href="https://910.id"> Portofolio </a></p>
+
+          </div>
+        </div>
+        <div className="xl:items-center xl:mt-28 pt-10 block">
+          <p className=" font-bold text-center md:mx-10 2xl:mx-64 md:text-xl">
+            SUKARELAWAN / INTERN
+          </p>
+          <br></br>
+          <div className="text-justify  px-5 md:px-10 2xl:px-64">
+            <p className="text-xl text-center md:text-left ">
+                Anantarupa Studios
             </p>
             <br></br>
             <p>As Freelance Website Admin <br></br>( March 2020 - September 2020)</p>
